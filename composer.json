@@ -1,0 +1,5 @@
+{
+    "require": {
+        "paytm/paytmchecksum": "^1.1"
+    }
+}
